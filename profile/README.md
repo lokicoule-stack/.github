@@ -1,27 +1,36 @@
 <div align="center">
   <img src="https://github.com/lokicoule-stack/.github/blob/main/media/repo-header.svg?raw=true" alt="Lokiverse: Unified Development Standards" />
 
-  <p>
-    <a href="https://github.com/lokicoule-stack/.github/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License" />
-    </a>
-  </p>
-</div>
+  <br />
+  <br />
+  <br />
 
-<div align="center">
-  <p><strong>Bridging projects through shared, refined configurations.</strong></p>
-  <p>Born from the belief that development should be consistent and maintainable across all projects.</p>
+  <p><strong>A comprehensive ecosystem of tools, libraries, and configurations designed to elevate TypeScript development.</strong></p>
 </div>
 
 ---
-
-## What's Inside
-
-Simple, clean configurations for modern TypeScript development - from code style to versioning.
-
-## Packages
+<br />
 
 <div align="center">
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Maintainer](https://img.shields.io/badge/maintainer-Lokicoule-blue)](https://github.com/lokicoule)
+[![Last Updated](https://img.shields.io/badge/last%20updated-2024--12--17-green)](https://github.com/lokicoule-stack)
+
+</div>
+
+<br />
+
+## Vision
+
+The Lokiverse ecosystem is built on three core principles:
+
+- **Consistency**: Maintaining unified development standards across my projects
+- **Type Safety**: Ensuring first-class TypeScript support with strong typing
+- **Developer Experience**: Creating intuitive tools and configurations that just work
+
+## Configuration Packages
+
 
 | Package | Version |
 |:--|:--|
@@ -30,4 +39,19 @@ Simple, clean configurations for modern TypeScript development - from code style
 | [@lokiverse/tsconfig](https://github.com/lokicoule-stack/tsconfig) | [![npm](https://img.shields.io/npm/v/@lokiverse/tsconfig.svg)](https://www.npmjs.com/package/@lokiverse/tsconfig) |
 | [@lokiverse/changesets-config](https://github.com/lokicoule-stack/changesets-config) | [![npm](https://img.shields.io/npm/v/@lokiverse/changesets-config.svg)](https://www.npmjs.com/package/@lokiverse/changesets-config) |
 
-</div>
+
+## Libraries
+
+
+| Package | Version |
+|:--|:--|
+| [@lokiverse/emitter](https://github.com/lokicoule-stack/emitter) | [![npm](https://img.shields.io/npm/v/@lokiverse/emitter.svg)](https://www.npmjs.com/package/@lokiverse/emitter) |
+
+
+## Tools
+
+
+| Package | Website |
+|:--|:--|
+| [@lokiverse/branding](https://github.com/lokicoule-stack/branding) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Flokicoule-stack.github.io%2Fbranding%2F&label=Website&style=for-the-badge)](https://lokicoule-stack.github.io/branding/) |
+
