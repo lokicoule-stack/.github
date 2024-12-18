@@ -34,7 +34,6 @@ The Lokiverse ecosystem is built on three core principles:
 
 | Package | Version |
 |:--|:--|
-| [@lokiverse/eslint-config](https://github.com/lokicoule-stack/eslint-config) | [![npm](https://img.shields.io/npm/v/@lokiverse/eslint-config.svg)](https://www.npmjs.com/package/@lokiverse/eslint-config) |
 | [@lokiverse/prettier-config](https://github.com/lokicoule-stack/prettier-config) | [![npm](https://img.shields.io/npm/v/@lokiverse/prettier-config.svg)](https://www.npmjs.com/package/@lokiverse/prettier-config) |
 | [@lokiverse/tsconfig](https://github.com/lokicoule-stack/tsconfig) | [![npm](https://img.shields.io/npm/v/@lokiverse/tsconfig.svg)](https://www.npmjs.com/package/@lokiverse/tsconfig) |
 | [@lokiverse/changesets-config](https://github.com/lokicoule-stack/changesets-config) | [![npm](https://img.shields.io/npm/v/@lokiverse/changesets-config.svg)](https://www.npmjs.com/package/@lokiverse/changesets-config) |
@@ -53,5 +52,5 @@ The Lokiverse ecosystem is built on three core principles:
 
 | Package | Website |
 |:--|:--|
-| [@lokiverse/branding](https://github.com/lokicoule-stack/branding) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Flokicoule-stack.github.io%2Fbranding%2F&label=Website&style=for-the-badge)](https://lokicoule-stack.github.io/branding/) |
+| [@lokiverse/branding](https://github.com/lokicoule-stack/branding) | [![Website](https://img.shields.io/website?url=https%3A%2F%2Flokicoule-stack.github.io%2Fbranding%2F)](https://lokicoule-stack.github.io/branding/) |
 
